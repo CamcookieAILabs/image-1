@@ -80,31 +80,31 @@ Here are the five remaining images currently saved in `generated/`:
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="generated/generated_20261124_190607.png" width="256" alt="Generated vintage muscle car on a snowy European city street at night"><br>
+      <img src="0.0.1-Experimental/generated/generated_20261124_190607.png" width="256" alt="Generated vintage muscle car on a snowy European city street at night"><br>
       <strong>Vintage muscle car on a snowy city street</strong><br>
       <em>“Create a photorealistic image of a vintage American muscle car parked on a snowy European city street at night. The car should have a classic 1970s design, chrome details, polished wheels, and dramatic reflections from the surrounding streetlights. Cinematic photography, realistic textures, highly detailed, professional automotive photography.”</em>
     </td>
     <td align="center" width="50%">
-      <img src="generated/generated_20261124_191556.png" width="256" alt="Generated classic American muscle car with chrome wheels on a city street"><br>
+      <img src="0.0.1-Experimental/generated/generated_20261124_191556.png" width="256" alt="Generated classic American muscle car with chrome wheels on a city street"><br>
       <strong>Classic muscle car with chrome wheels</strong><br>
       <em>“A photorealistic photograph of a classic American muscle car with chrome wheels, parked on a city street. Detailed automotive photography.”</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="generated/generated_20261124_192610.png" width="256" alt="Generated red car viewed from the side on a road"><br>
+      <img src="0.0.1-Experimental/generated/generated_20261124_192610.png" width="256" alt="Generated red car viewed from the side on a road"><br>
       <strong>Red car, side view</strong><br>
       <em>“A photograph of a single red car, viewed from the side, parked on a road.”</em>
     </td>
     <td align="center" width="50%">
-      <img src="generated/generated_20261125_014939.png" width="256" alt="Generated image for the prompt: A car"><br>
+      <img src="0.0.1-Experimental/generated/generated_20261125_014939.png" width="256" alt="Generated image for the prompt: A car"><br>
       <strong>Simple prompt</strong><br>
       <em>“A car.”</em>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="generated/generated_20261125_111020.png" width="256" alt="Generated vintage red car"><br>
+      <img src="0.0.1-Experimental/generated/generated_20261125_111020.png" width="256" alt="Generated vintage red car"><br>
       <strong>Vintage red car</strong><br>
       <em>“A vintage red car.”</em>
     </td>
