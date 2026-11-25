@@ -1,0 +1,8 @@
+{
+    "prompt": "A photograph of a single red car, viewed from the side, parked on a road.",
+    "seed": null,
+    "resolution": 256,
+    "timesteps": 1000,
+    "device": "cpu",
+    "filename": "generated_20261124_192610.png"
+}

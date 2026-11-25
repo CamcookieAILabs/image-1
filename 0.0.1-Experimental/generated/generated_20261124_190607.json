@@ -1,0 +1,8 @@
+{
+    "prompt": "Create a photorealistic image of a vintage American muscle car parked on a snowy European city street at night. The car should have a classic 1970s design, chrome details, polished wheels, and dramatic reflections from the surrounding streetlights. Cinematic photography, realistic textures, highly detailed, professional automotive photography.",
+    "seed": null,
+    "resolution": 256,
+    "timesteps": 1000,
+    "device": "cpu",
+    "filename": "generated_20261124_190607.png"
+}
